@@ -1,5 +1,5 @@
 /*function namaste (naam) {
-    console.log("Hello, " + naam + "|" );
+.    console.log("Hello, " + naam + "|" );
 }
 
 namaste("Rahul");
